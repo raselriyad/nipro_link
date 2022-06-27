@@ -1,0 +1,51 @@
+Tinyone--------------------
+psd to html/psd to bootstrap / psd to html responsive with bootstrap 
+
+font family--------------
+lato - 400 / 500 / 700
+Roboto - 400 / 500 / 
+
+
+color ------------------
+Black #333333
+ash   #8e8e8e
+Yello #ffffff
+
+=============================
+xxl - 1440
+xl - 1200
+lg - 1024
+md - 768
+sm - 576
+col - 320 
+
+header ---------------------
+
+menu         xxl/xl/lg      md          sm/col
+                22          22          20
+
+service ---------------------
+
+            xxl/xl/lg      md          sm/col
+                22          22          20
+h1              32          32          25
+h2              20          20          18
+padding         42          42          35
+icon
+pb
+
+service 
+            xxl/xl/lg  100-120    md   80       sm/col   60
+padding:        100
+
+                    xxl/xl/lg      md          sm/col
+header t-b             22          22          20
+
+feature ----------------- 
+
+                    xxl/xl/lg      md          sm/col
+  Pt                  100 px       80            50
+  pb                  120px        100           70
+  h2                  32            32           25
+  p                   20            20           17
+

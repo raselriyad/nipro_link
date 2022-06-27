@@ -1,0 +1,298 @@
+/* Extra Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+    .c_bottom_padding {
+        padding-bottom: 60px;
+    }
+    /* banner start  */
+    .b_item {
+        margin-top: 170px;
+        margin-bottom: 150px;
+    }
+    .b_item h1 {
+        font-size: 27px;
+    }
+    .b_item p {
+        margin-top: 20px;
+        margin-bottom: 30px;
+        padding-right: 4%;
+    }
+    .b_item button {
+        width: 150px;
+        height: 40px;
+    }
+    /* banner end  */
+     /* service start  */
+     
+    .s_b {
+        margin: 0 auto 20px;
+        height: 40px;
+    }
+    .heading-title .h2_title {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .heading-title .p_title {
+        padding: 0 20px;
+    }
+    .s_content {
+        margin-top: 40px;
+    }
+    .s_item {
+        margin-bottom: 40px;
+    }
+    .s_mb {
+        margin-bottom: 40px !important;
+    }
+    .s_mb:last-child {
+        margin-bottom: 0;
+    }
+    .s_icon_2 {
+        margin-left: -8% !important;
+    }
+    .s_item .s_p {
+        margin-bottom: 20px !important;
+    }
+    /* service end  */
+
+    /* about start  */
+    .fa-arrow-right-long {
+        margin-left: 12px;
+    }
+    .a_text {
+        margin-top: 25px;
+    }
+    .a_heading {
+        font-size: 28px;
+    }
+    .a_p_1 {
+        margin-top: 10px;
+    }
+    .a_p_2 {
+        margin-top: -5px;
+    }
+    .a_text .a_link {
+        padding: 10px 20px !important;
+    }
+    /* about end  */
+
+    /* portfolio start  */
+    .portfolio-content {
+        margin-top: 40px;
+    }
+    .portfolio-buttons {
+        text-align: center;
+        padding: 10px 10px;
+        margin-bottom: 20px;
+    }
+    .portfolio-buttons button {
+        padding: 0 7px;
+        transform: translateX(10%);
+    }
+    /* portfolio end  */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px){ 
+    .c_bottom_padding {
+        padding-bottom: 60px;
+    }
+    /* banner start  */
+    .b_item {
+        margin-top: 180px;
+        margin-bottom: 180px;
+    }
+    .b_item h1 {
+        font-size: 45px;
+    }
+    .b_item p {
+        margin-top: 30px;
+        margin-bottom: 40px;
+        padding-right: 17%;
+    }
+    .b_item button {
+        width: 180px;
+        height: 45px;
+    }
+    /* banner end  */
+    /* service start  */
+    .service {
+        padding-bottom: 50px;
+    }
+    .s_b {
+        margin: 0 auto 20px;
+        height: 40px;
+    }
+    .heading-title .h2_title {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .heading-title .p_title {
+        padding: 0 20px;
+    }
+    .s_content {
+        margin-top: 40px;
+    }
+    .s_item {
+        margin-bottom: 40px;
+    }
+    .s_mb {
+        margin-bottom: 40px !important;
+    }
+    .s_mb:last-child {
+        margin-bottom: 0;
+    }
+    .s_icon_2 {
+        margin-left: -8% !important;
+    }
+    .s_item .s_p {
+        margin-bottom: 20px !important;
+    }
+    /* service end  */
+
+    /* about start  */
+    .fa-arrow-right-long {
+        margin-left: 12px;
+    }
+
+    .a_text {
+        margin-top: 25px;
+    }
+    .a_heading {
+        font-size: 28px;
+    }
+    .a_p_1 {
+        margin-top: 10px;
+    }
+    .a_p_2 {
+        margin-top: -5px;
+    }
+    .a_text .a_link {
+        padding: 10px 20px !important;
+    }
+    /* about end  */
+    /* portfolio start  */
+    .portfolio-content {
+        margin-top: 40px;
+    }
+    .portfolio-buttons {
+        text-align: center;
+        padding: 10px 10px;
+        margin-bottom: 20px;
+    }
+    /* portfolio end  */
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){ 
+    .c_bottom_padding {
+        padding-bottom: 80px;
+    }
+
+    /* banner start  */
+    .b_item {
+        margin-top: 180px;
+        margin-bottom: 180px;
+    }
+    .b_item h1 {
+        font-size: 50px;
+    }
+    /* banner end  */
+    /* service start  */
+    .s_b {
+        margin: 0 auto 25px;
+    }
+    .heading-title .h2_title {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .s_content {
+        margin-top: 60px;
+    }
+    .s_item {
+        margin-bottom: 40px;
+    }
+    .s_item .s_p {
+        margin-bottom: 20px !important;
+    }
+    .s_mb {
+        margin-bottom: 0;
+    }
+    /* service end  */
+
+    /* about start  */
+    .fa-arrow-right-long {
+        margin-left: 15px;
+    }
+
+    .about {
+        padding-bottom: 80px;
+    }
+    .a_text {
+        margin-top: 25px;
+    }
+    .a_heading {
+        font-size: 28px;
+    }
+    .a_p_1 {
+        margin-top: 10px;
+    }
+
+    .a_text .a_link {
+        padding: 10px 20px !important;
+    }
+    /* about end  */
+    /* portfolio start  */
+    .portfolio-content {
+        margin-top: 50px;
+    }
+    .portfolio-buttons {
+        text-align: center;
+        padding: 10px 10px;
+        margin-bottom: 25px;
+    }
+    /* portfolio end  */
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px){ 
+    /* banner start  */
+    .b_item h1 {
+        font-size: 50px;
+    }
+    /* banner end  */
+    /* service start  */
+    .s_content {
+        margin-top: 60px;
+    }
+    /* service end  */
+    /* about start  */
+
+    .a_p_2 {
+        display: none;
+    }
+    .a_text .a_link {
+        padding: 10px 25px;
+    }
+    /* about end  */
+ }
+
+/* Extra Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+    /* banner start  */
+    .b_item h1 {
+        font-size: 59px;
+    }
+    .b_item p {
+        padding-right: 2%;
+    }
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+    /* about start  */
+
+    [class^="a_p_"] {
+        line-height: 27px;
+    }
+ }
